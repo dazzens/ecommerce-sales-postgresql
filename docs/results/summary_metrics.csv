@@ -1,0 +1,10 @@
+metric,value
+raw_rows,536350.0
+clean_rows,526417.0
+sales_rows,517898.0
+return_rows,8519.0
+orders,19790.0
+gross_revenue,62781386.54
+return_amount,2664628.15
+net_amount,60116758.39
+average_order_value,3172.38

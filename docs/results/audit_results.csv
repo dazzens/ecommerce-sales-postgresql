@@ -1,0 +1,12 @@
+check_name,actual,expected,status
+raw row count,536350,536350,PASS
+clean row count,526417,526417,PASS
+sales view row count,517898,517898,PASS
+returns view row count,8519,8519,PASS
+zero quantity rows,0,0,PASS
+gross revenue,62781386.54,62781386.54,PASS
+return amount,2664628.15,2664628.15,PASS
+net amount,60116758.39,60116758.39,PASS
+inconsistent transactions,0,0,PASS
+invalid clean rows,0,0,PASS
+orders view matches distinct sales orders,19790,19790,PASS
