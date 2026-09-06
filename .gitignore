@@ -1,0 +1,25 @@
+# Локальные настройки и секреты
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.metadata/
+.dbeaver/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Исходные данные и выгрузки базы
+data/*.csv
+*.backup
+*.dump
+
+# Временные файлы
+*.log
+*.tmp
+*.bak
+*~
+
